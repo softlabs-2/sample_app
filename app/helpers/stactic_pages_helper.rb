@@ -1,0 +1,2 @@
+module StacticPagesHelper
+end
