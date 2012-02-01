@@ -1,2 +1,2 @@
-module StacticPagesHelper
+module StaticPagesHelper
 end
